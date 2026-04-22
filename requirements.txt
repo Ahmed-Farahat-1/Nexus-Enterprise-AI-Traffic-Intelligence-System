@@ -1,0 +1,9 @@
+PyQt6>=6.5
+opencv-python>=4.8
+ultralytics>=8.0
+numpy
+pyqtgraph
+transformers>=4.36
+torch>=2.0
+Pillow>=10.0
+easyocr>=1.7
