@@ -94,7 +94,7 @@ graph TD
 
 ### 1. Clone & Environment Setup
 ```bash
-git clone https://github.com/your-username/nexus-traffic-intelligence.git
+git clone https://github.com/Ahmed-Farahat-1/nexus-traffic-intelligence.git
 cd nexus-traffic-intelligence
 
 # Create a virtual environment
